@@ -198,3 +198,4 @@ elif next_state[0,0]<-0.65 and next_state[0,0]>-0.7 and next_state[0,3]>0:
 막대의 균형을 오래 유지하진 못했지만 학습 도중 왔다갔다하면서 막대의 균형을 잡는 모습을 볼 수 있다. <br>
 
 ![](https://user-images.githubusercontent.com/122516287/256458884-7f7c6852-a11c-4814-8c1f-f78ad40deca3.gif)
+
