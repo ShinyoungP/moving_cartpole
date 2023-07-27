@@ -199,3 +199,4 @@ elif next_state[0,0]<-0.65 and next_state[0,0]>-0.7 and next_state[0,3]>0:
 
 ![](https://user-images.githubusercontent.com/122516287/256458884-7f7c6852-a11c-4814-8c1f-f78ad40deca3.gif)
 
+![](https://user-images.githubusercontent.com/122516287/256463737-9603823e-d495-4bde-9597-211319ba621c.gif)
